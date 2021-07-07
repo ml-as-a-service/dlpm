@@ -12,14 +12,16 @@ En [projecto principal](https://github.com/orgs/ml-as-a-service/projects/3) se p
  - Repositorio [principal](https://github.com/ml-as-a-service/dlpm)
 
 ## SubProjects
- - Repositorio [DL](https://github.com/ml-as-a-service/dlpm-dl)
- - Repositorio [CNN](https://github.com/ml-as-a-service/dlpm-cnn)
- - Repositorio [opencv](https://github.com/ml-as-a-service/dlpm-opencv)
- - Repositorio [GAN](https://github.com/ml-as-a-service/dlpm-gan)
- - Repositorio [NLP](https://github.com/ml-as-a-service/dlpm-nlp)
- - Repositorio [RNN](https://github.com/ml-as-a-service/dlpm-rnn)
- - Repositorio [MLOps](https://github.com/ml-as-a-service/dlpm-mlops)
- - Repositorio [EC](https://github.com/ml-as-a-service/dlpm-ec)
+ - GitHub [Pages](https://ml-as-a-service.github.io/dlpm-dl/) / Repositorio [DL](https://github.com/ml-as-a-service/dlpm-dl)
+ - GitHub [Pages](https://ml-as-a-service.github.io/dlpm-cnn/) / Repositorio [CNN](https://github.com/ml-as-a-service/dlpm-cnn)
+ - GitHub [Pages](https://ml-as-a-service.github.io/dlpm-opencv/) / Repositorio [opencv](https://github.com/ml-as-a-service/dlpm-opencv)
+ - GitHub [Pages](https://ml-as-a-service.github.io/dlpm-gan/) / Repositorio [GAN](https://github.com/ml-as-a-service/dlpm-gan)
+ - GitHub [Pages](https://ml-as-a-service.github.io/dlpm-nlp/) / Repositorio [NLP](https://github.com/ml-as-a-service/dlpm-nlp)
+ - GitHub [Pages](https://ml-as-a-service.github.io/dlpm-rnn/) / Repositorio [RNN](https://github.com/ml-as-a-service/dlpm-rnn)
+ - GitHub [Pages](https://ml-as-a-service.github.io/dlpm-mlops/) / Repositorio [MLOps](https://github.com/ml-as-a-service/dlpm-mlops)
+ - GitHub [Pages](https://ml-as-a-service.github.io/dlpm-ec/) / Repositorio [EC](https://github.com/ml-as-a-service/dlpm-ec)
+
+
 
 # 7 steps of ML
 El (proceso general de ML)[https://www.kdnuggets.com/2018/05/general-approaches-machine-learning-process.html] consiste en 7 pasos 
