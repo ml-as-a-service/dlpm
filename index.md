@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# DeepLearning en la Practica 2021
+Notas, Codigo y Ejemplos del curso de DL dictado por Marvik como materia electiva de la Maestria de Ciencia de Datos por UTEC.
 
-You can use the [editor on GitHub](https://github.com/ml-as-a-service/dlpm/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Esta pagina es un ejemplo de como crear un proyecto utilizando herramientas open source para la gestion de proyectos de ML/DL/AI/DS el mismo sera implementado a traves de un pipeline de deploy automatico.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# GitHub Project
 
-### Markdown
+https://github.com/orgs/ml-as-a-service/projects/3
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Repositories
+## Main 
+ - https://github.com/ml-as-a-service/dlpm
 
-# Header 1
-## Header 2
-### Header 3
+## SubProjects
+ - https://github.com/ml-as-a-service/dlpm-dl
+ - https://github.com/ml-as-a-service/dlpm-cnn
+ - https://github.com/ml-as-a-service/dlpm-opencv
+ - https://github.com/ml-as-a-service/dlpm-gan
+ - https://github.com/ml-as-a-service/dlpm-nlp
+ - https://github.com/ml-as-a-service/dlpm-rnn
+ - https://github.com/ml-as-a-service/dlpm-ec
+ - https://github.com/ml-as-a-service/dlpm-mlops
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ml-as-a-service/dlpm/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ 
